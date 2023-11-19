@@ -1,3 +1,4 @@
+![logo](https://github.com/SidByteBuilder/Profile/blob/af3bdb65b44df702de39082d52c027cacff04f0d/Github--cover.png)
 <h1 align="center">Hi 👋, I'm Sidra Tul Kubra</h1>
 <h4 align="center">Welcome to my GitHub profile! I'm a passionate software engineer with a Bachelor's degree in Software Engineering. With three years of hands-on experience in website development, particularly specializing in WordPress. I believe that coding is not just about building functional systems but about creating digital symphonies that resonate with users. </h4>
 
